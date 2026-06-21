@@ -177,7 +177,9 @@ Service quality differences between travel classes strongly influence customer s
 
  
 ### DATA SOURCE
-[Uploading Airline data.xlsx…]()
+[Airline data.xlsx](https://github.com/user-attachments/files/29183132/Airline.data.xlsx)
+
+
 
 
 ### CONCLUSION
