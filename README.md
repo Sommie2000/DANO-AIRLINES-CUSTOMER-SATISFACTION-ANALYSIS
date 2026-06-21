@@ -98,7 +98,7 @@ KPI (Key Performance Indicator Metrics)
 
 
 
-##### KEY INSIGHT
+### KEY INSIGHT
 1. Satisfaction by Travel Type
 > Findings
 -	Business travelers show significantly higher satisfaction levels.
@@ -174,6 +174,11 @@ Service quality differences between travel classes strongly influence customer s
 - Increase value perception offers like promotional fares, loyalty reward and discount for repeated leisure travelers.
 - Dedicated family check-in counters
 - Provide children travel kit like coloring books, child friendly snack and entertainment options
+
+ 
+### DATA SOURCE
+[Uploading Airline data.xlsx…]()
+
 
 ### CONCLUSION
 The analysis shows that Dano Airlines currently has a customer satisfaction rate of 43.4% and dissatisfaction rate of 56.6% indicating substantial opportunities for improvement. By focusing attention on dissatisfied passengers, especially the first time passengers, economic class and the personal travel type passengers, there should be strategic improvements in seat comfort, baggage handling, check-in efficiency, digital services  and the overall service experience. These initiatives will significantly improve customer satisfaction, customer retention, and brand loyalty.
