@@ -81,3 +81,14 @@ COLUMNS:
 - Data Visualization	Slicers were added to allow leadership to filter into specific customer segments when needed.
 
 ### VISUALIZATION
+KPI (Key Performance Indicator Metrics)
+|KPI| VALUES|
+|--------------------------|--------|
+|Total Passengers| 29,000|
+|Average Age|	39 Years|
+|Satisfaction Rate|	43.4%|
+|Dissatisfaction Rate|	56.6%|
+|Returning Passenger Satisfaction Rate|	47.8%|
+|First-Time Passenger Satisfaction  Rate|	24.0%|
+
+
