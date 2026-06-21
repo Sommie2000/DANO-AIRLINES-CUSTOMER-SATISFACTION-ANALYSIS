@@ -4,7 +4,7 @@ This project analyzes passenger satisfaction data for Dano Airlines to identify 
 The analysis was conducted using Power BI and focuses on passenger demographics, travel characteristics, service quality ratings, and customer satisfaction outcomes.
 
 ### OBJECTIVE
-Following the data set passengerS survey, the overall satisfaction rate has fallen below the 50% threshold for the first time. This decline signals potential risks to customer loyalty, brand perception, and future revenue.
+Following the data set passengers survey, the overall satisfaction rate has fallen below the 50% threshold for the first time. This decline signals potential risks to customer loyalty, brand perception, and future revenue.
 The objective of this analysis is to identify the reason for the decline and provide data-driven recommendations to improve passenger satisfaction and restore confidence in the airline’s service delivery. 
 This report summarizes key findings from over 129,000 passenger responses and outlines practical actions that can be taken to reverse the trend.
 
@@ -21,24 +21,37 @@ This report summarizes key findings from over 129,000 passenger responses and ou
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
 
-### PROJECT OVERVIEW
-This Project analyzes BMW globl sales performance from 2018-2025, focusing on growth, product strategy, revenue, models performance, market strength, economic indicators, regional sales and macroeconomic impact revealing a strategic shift. I used power query editor for data cleaning and excel for data transformation and visualization.
+
 
 ### DATASET OVERVIEW
 
 COLUMNS:
-- Year
-- Month	
-- Days	
-- Region	
-- Model	
-- Units_Sold	
-- Avg_Price_EUR	
-- Revenue_EUR
-- BEV_Share
-- Premium_Share
-- GDP_Growth
-- Fuel_Price_Index
+- ID
+- Gender
+- Age
+- Customer Type
+- Type of Travel
+- Class
+- Flight Distance
+- Departure Delay
+- Arrival Delay
+- Departure and Arrival Time Convenience
+- Ease of Online Booking
+- Check-in Service
+- Online Boarding
+- Gate Location
+- On-board Service
+- Seat Comfort
+- Leg Room Service
+- Cleanliness	Food and Drink
+- In-flight Service
+- In-flight Wifi Service
+- In-flight Entertainment
+- Baggage Handling
+- Satisfaction
+  
+<img width="2872" height="22" alt="image" src="https://github.com/user-attachments/assets/3c934cae-77f4-483f-8b83-2b4da9b51747" />
+
 
 DATASET SAMPLE PREVIEW:
 |Year|	Month| Days| Region|	Model| Units_Sold| Avg_Price_EUR| Revenue_EUR| BEV_Share| Premium_Share| GDP_Growth| Fuel_Price_Index|
