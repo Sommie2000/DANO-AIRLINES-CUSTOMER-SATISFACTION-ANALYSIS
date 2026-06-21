@@ -67,7 +67,9 @@ COLUMNS:
 
 
 ### DATA CLEANING
-
+- Changed date and amount datatype to date and currency format
+- Removed duplicate, empty or invalid values
+- Created new columns for corrected date and year
 
 
 
