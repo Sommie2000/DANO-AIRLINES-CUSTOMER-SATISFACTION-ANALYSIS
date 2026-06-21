@@ -84,7 +84,7 @@ COLUMNS:
 KPI (Key Performance Indicator Metrics)
 |KPI| VALUES|
 |--------------------------|--------|
-|Total Passengers| 29,000|
+|Total Passengers| 129,880|
 |Average Age|	39 Years|
 |Satisfaction Rate|	43.4%|
 |Dissatisfaction Rate|	56.6%|
