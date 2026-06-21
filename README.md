@@ -79,3 +79,5 @@ COLUMNS:
 - New Measures and DAX Expressions 
 > Key performance indicators (KPIs) were calculated using New Measures and DAX
 - Data Visualization	Slicers were added to allow leadership to filter into specific customer segments when needed.
+
+### VISUALIZATION
