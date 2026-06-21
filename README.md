@@ -50,7 +50,6 @@ COLUMNS:
 - Baggage Handling
 - Satisfaction
   
-<img width="2872" height="22" alt="image" src="https://github.com/user-attachments/assets/3c934cae-77f4-483f-8b83-2b4da9b51747" />
 
 
 DATASET SAMPLE PREVIEW:
