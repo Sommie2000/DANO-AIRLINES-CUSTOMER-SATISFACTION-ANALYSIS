@@ -62,23 +62,20 @@ COLUMNS:
 |4|	Male|	50|	Returning|	Business|	Business|	1905|	0|	0|	2|	2|	3|	4|	2|	5|	5|	5|	4|	4|	5|	2|	5|	5|	Satisfied|
 |5|	Female|	49|	Returning|	Business|	Business|	3470|	0|	1|	3|	3|	3|	5|	3|	3|	4|	4|	5|	4|	3|	3|	3|	3|	Satisfied|
 
-
-
-
-
-[Dataset file showing the pivot tables][bmw_global_sales_2018_2025.xlsx](https://github.com/user-attachments/files/26570700/bmw_global_sales_2018_2025.xlsx)
-
-
-### DATA CLEANING
-- Changed date and amount datatype to date and currency format
-- Removed duplicate, empty or invalid values
-- Created new columns for corrected date and year
-
-
-
 ### TOOLS 
 -	Microsoft Power BI
 -	Power Query
 -	DAX
 -	Data Modeling
 -	Data Visualization
+
+### KEY SKILLS APPLIED
+- Data Gathering, Cleaning and Transformation
+ > Data was imported into Power BI then it was transformed by power query where cleaning, exploration and transformation were carried out.
+- Data Modelling
+
+<img width="970" height="537" alt="Dano model table" src="https://github.com/user-attachments/assets/5f57d1fd-eb91-43e8-ba56-d05dcc0cca40" />
+
+- New Measures and DAX Expressions 
+> Key performance indicators (KPIs) were calculated using New Measures and DAX
+- Data Visualization	Slicers were added to allow leadership to filter into specific customer segments when needed.
