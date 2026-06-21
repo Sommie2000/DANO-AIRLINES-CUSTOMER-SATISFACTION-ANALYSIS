@@ -1,4 +1,7 @@
 # DANO-AIRLINES-CUSTOMER-SATISFACTION-ANALYSIS
+<img width="1280" height="853" alt="Dano air picture" src="https://github.com/user-attachments/assets/a89f4053-7967-4268-b8f7-155683524267" />
+
+
 ### PROJECT OVERVIEW
 This project analyzes passenger satisfaction data for Dano Airlines to identify the key factors influencing customer satisfaction and provide data-driven recommendations for improving the overall passenger experience.
 The analysis was conducted using Power BI and focuses on passenger demographics, travel characteristics, service quality ratings, and customer satisfaction outcomes.
