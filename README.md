@@ -13,13 +13,12 @@ This report summarizes key findings from over 129,000 passenger responses and ou
 
 ### TABLE OF CONTENT
 * [Project Overview](#project-overview)
+* [Objectives](#objectives)
 * [Dataset Overview](#dataset-overview)
-* [Data Cleaning](#data-cleaning)
 * [Tools](#tools)
-* [Excel Dashboard](#excel-dashboard)
-* [Dashboard](#dashboard)
-* [Key Insights](#key-insights)
-* [Interactive Analysis](#interactive-analysis)
+* [Key Skilled Applied](#key-skill-applied)
+* [Visualization](#visualization)
+* [Key Insight](#key-insight)
 * [Recommendation](#recommendation)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
@@ -53,7 +52,7 @@ COLUMNS:
 - Baggage Handling
 - Satisfaction
 
-### DATASET SAMPLE PREVIEW
+##### DATASET SAMPLE PREVIEW
 |ID|	Gender|	Age|	Customer Type|	Type of Travel|	Class|	Flight Distance|	Departure Delay|	Arrival Delay|	Departure and Arrival Time Convenience|	Ease of Online Booking|	Check-in Service|	Online Boarding|	Gate Location|	On-board Service|	Seat Comfort|	Leg Room Service|	Cleanliness|	Food and Drink|	In-flight Service|	In-flight Wifi Service|	In-flight Entertainment|	Baggage Handling|	Satisfaction|
 |----|------|----|---------------|--------------|--------|-----------------|-----------------|--------------|----------------------------------------|-----------------------|------------------|------------------|---------------|-----------------|--------------|-----------------|-------------|----------------|-----------------|------------------------|-------------------------------|-------------------|-------------|
 |1|	Male|	48|	First-time|	Business|	Business|	821|	2|	5|	3|	3|	4|	3|	3|	3|	5|	2|	5|	5|	5|	3|	5|	5|	Neutral or Dissatisfied|
