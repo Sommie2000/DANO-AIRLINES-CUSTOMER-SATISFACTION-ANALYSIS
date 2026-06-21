@@ -16,7 +16,7 @@ This report summarizes key findings from over 129,000 passenger responses and ou
 * [Objectives](#objectives)
 * [Dataset Overview](#dataset-overview)
 * [Tools](#tools)
-* [Key Skill Applied](#key-skill-applied)
+* [Key Skills Applied](#key-skills-applied)
 * [Visualization](#visualization)
 * [Key Insight](#key-insight)
 * [Recommendation](#recommendation)
