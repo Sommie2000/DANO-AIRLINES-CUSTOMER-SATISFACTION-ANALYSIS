@@ -49,7 +49,15 @@ COLUMNS:
 - In-flight Entertainment
 - Baggage Handling
 - Satisfaction
-  
+
+|ID|	|Gender|	|Age|	|Customer Type|	|Type of Travel|	|Class|	Flight Distance|	Departure Delay|	Arrival Delay|	Departure and Arrival Time Convenience|	Ease of Online Booking|	Check-in Service|	Online Boarding|	Gate Location|	On-board Service|	Seat Comfort|	Leg Room Service|	Cleanliness|	Food and Drink|	In-flight Service|	In-flight Wifi Service|	In-flight Entertainment|	Baggage Handling|	Satisfaction|
+|1|	Male|	48|	First-time|	Business|	Business|	821|	2|	5|	3|	3|	4|	3|	3|	3|	5|	2|	5|	5|	5|	3|	5|	5|	Neutral or Dissatisfied|
+2	Female	35	Returning	Business	Business	821	26	39	2	2	3	5	2	5	4	5	5	3	5	2	5	5	Satisfied
+3	Male	41	Returning	Business	Business	853	0	0	4	4	4	5	4	3	5	3	5	5	3	4	3	3	Satisfied
+4	Male	50	Returning	Business	Business	1905	0	0	2	2	3	4	2	5	5	5	4	4	5	2	5	5	Satisfied
+5	Female	49	Returning	Business	Business	3470	0	1	3	3	3	5	3	3	4	4	5	4	3	3	3	3	Satisfied
+<img width="3019" height="127" alt="image" src="https://github.com/user-attachments/assets/2b4226af-2185-4a03-99a9-44a08a52ad83" />
+
 
 
 DATASET SAMPLE PREVIEW:
