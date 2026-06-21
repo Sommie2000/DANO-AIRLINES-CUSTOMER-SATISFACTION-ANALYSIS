@@ -92,3 +92,103 @@ KPI (Key Performance Indicator Metrics)
 |First-Time Passenger Satisfaction  Rate|	24.0%|
 
 
+##### DASHBOARD
+
+<img width="1120" height="542" alt="Dano 2" src="https://github.com/user-attachments/assets/e7fc9f47-f858-48f8-ac46-68da338286be" />
+
+
+
+##### KEY INSIGHT
+1. Satisfaction by Travel Type
+> Findings
+-	Business travelers show significantly higher satisfaction levels.
+-	Personal travelers exhibit higher dissatisfaction levels.
+> Implication
+Business travelers appear to receive greater value from the airline experience compared to personal travelers.
+
+2. Satisfaction by Class
+> Findings
+-	Business Class passengers have the highest satisfaction levels.
+-	Economy passengers show the highest dissatisfaction levels.
+-	Economy Plus performs slightly better than Economy but remains below Business Class.
+> Implication
+Service quality differences between travel classes strongly influence customer satisfaction.
+
+3. Satisfaction by Check-In Service
+> Findings
+- Satisfied passengers rated check-in services higher than dissatisfied passengers.
+> Implication
+- A smooth and efficient check-in process contributes positively to customer experience.
+
+4. Satisfaction by In-Flight Service
+> Findings
+- Higher in-flight service ratings correspond with increased satisfaction levels.
+> Implication
+- Service quality during flights plays a critical role in shaping customer perception.
+
+5. Satisfaction by Seat Comfort
+> Findings
+- Passenger satisfaction increases significantly as seat comfort ratings improve.
+- Low seat comfort ratings are associated with higher dissatisfaction.
+> Implication
+- Seat comfort is a major driver of customer satisfaction.
+
+6. Satisfaction by Baggage Handling
+> Findings
+- Passengers who rated baggage handling highly were more likely to be satisfied.
+- Lower baggage handling ratings are strongly associated with dissatisfaction.
+> Implication
+- Efficient baggage management directly impacts customer experience.
+
+
+### RECOMMENDATION
+1. Improve Economy Class Experience
+> Since Economy passengers exhibit the highest dissatisfaction levels, Dano Airlines should:
+- Improve seating comfort.
+- Enhance in-flight services.
+- Increase customer support responsiveness.
+2. Enhance Seat Comfort
+- Upgrade seating quality.
+- Increase legroom where possible.
+- Improve cabin ergonomics.
+3. Optimize Baggage Handling
+- Reduce lost luggage and baggage delays.
+- Improve baggage tracking systems.
+- Strengthen baggage handling procedures.
+4. Improve Check-In Efficiency
+- Expand digital check-in options.
+- Reduce waiting times.
+- Improve airport support services.
+5. Focus on First-Time Passengers
+> The satisfaction rate among first-time passengers is significantly lower than returning passengers.
+ > Dano Airlines should:
+- Provide first time experience programs before departure like welcome mails, travel guides, check in instructions, baggage information
+- Improve customer communication by sending flight reminders, boarding instructions and airport navigation tips through emails or sms
+- Improve ground staff support, by assigning customer service representatives to assist first-time travelers, elderly passengers and passengers requiring guidance
+- Follow Up After Flights; collect feedback from first-time passengers and address recurring complaints quickly. This creates a memorable first-flight experience.
+6. Improve personal travelers and improve  family friendly services 
+  > Provide:
+- Family boarding assistance.
+- Easier baggage support.
+- Child-friendly services
+- Increase value perception offers like promotional fares, loyalty reward and discount for repeated leisure travelers.
+- Dedicated family check-in counters
+- Provide children travel kit like coloring books, child friendly snack and entertainment options
+
+### CONCLUSION
+The analysis shows that Dano Airlines currently has a customer satisfaction rate of 43.4% and dissatisfaction rate of 56.6% indicating substantial opportunities for improvement. By focusing attention on dissatisfied passengers, especially the first time passengers, economic class and the personal travel type passengers, there should be strategic improvements in seat comfort, baggage handling, check-in efficiency, digital services  and the overall service experience. These initiatives will significantly improve customer satisfaction, customer retention, and brand loyalty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
