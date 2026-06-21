@@ -67,3 +67,13 @@ COLUMNS:
 
 
 ### DATA CLEANING
+
+
+
+
+### TOOLS 
+-	Microsoft Power BI
+-	Power Query
+-	DAX
+-	Data Modeling
+-	Data Visualization
