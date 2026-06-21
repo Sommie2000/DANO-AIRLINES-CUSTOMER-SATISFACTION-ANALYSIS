@@ -50,6 +50,7 @@ COLUMNS:
 - Baggage Handling
 - Satisfaction
 
+### DATASET SAMPLE PREVIEW
 |ID|	Gender|	Age|	Customer Type|	Type of Travel|	Class|	Flight Distance|	Departure Delay|	Arrival Delay|	Departure and Arrival Time Convenience|	Ease of Online Booking|	Check-in Service|	Online Boarding|	Gate Location|	On-board Service|	Seat Comfort|	Leg Room Service|	Cleanliness|	Food and Drink|	In-flight Service|	In-flight Wifi Service|	In-flight Entertainment|	Baggage Handling|	Satisfaction|
 |----|------|----|---------------|--------------|--------|-----------------|-----------------|--------------|----------------------------------------|-----------------------|------------------|------------------|---------------|-----------------|--------------|-----------------|-------------|----------------|-----------------|------------------------|-------------------------------|-------------------|-------------|
 |1|	Male|	48|	First-time|	Business|	Business|	821|	2|	5|	3|	3|	4|	3|	3|	3|	5|	2|	5|	5|	5|	3|	5|	5|	Neutral or Dissatisfied|
@@ -60,15 +61,6 @@ COLUMNS:
 
 
 
-
-DATASET SAMPLE PREVIEW:
-|Year|	Month| Days| Region|	Model| Units_Sold| Avg_Price_EUR| Revenue_EUR| BEV_Share| Premium_Share| GDP_Growth| Fuel_Price_Index|
-|----|--------|-----|-------|------|-----------|--------------|------------|----------|--------------|-----------|-----------------|
-|2019|	1/4/1900|	Wed|	Europe|	MINI|	$2.6K|	$40K|	$105M|	0.06|	17.63|	3.98|	1.04|
-|2020|	1/4/1900|	Wed|	USA|	MINI|	$2.5K|	$43K|	$110M|	0.061|	19.81|	3.52|	1.16|
-|2018|	1/1/1900|	Sun|	Europe|	MINI|	$2.6K|	$43K|	$110M|	0.013|	19.12|	3.5|	1|
-|2021|	1/2/1900|	Mon|	Europe|	MINI|	$2.8K|	$40K|	$113M|	0.084|	15.12|	4.2|	1.14|
-|2018|	1/10/1900|	Tue|	China|	MINI|	$2.7K|	$42K|	$114M|	0.025|	19.19|	5.28|	0.92|
 
 
 [Dataset file showing the pivot tables][bmw_global_sales_2018_2025.xlsx](https://github.com/user-attachments/files/26570700/bmw_global_sales_2018_2025.xlsx)
