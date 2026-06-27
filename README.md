@@ -93,7 +93,7 @@ KPI (Key Performance Indicator Metrics)
 
 ##### DASHBOARD
 
-<img width="1120" height="542" alt="Dano 2" src="https://github.com/user-attachments/assets/e7fc9f47-f858-48f8-ac46-68da338286be" />
+<img width="1119" height="547" alt="DANO MAIN DASHBOARD" src="https://github.com/user-attachments/assets/c1c6b571-a6d1-44e9-b244-68dcb7368400" />
 
 
 
